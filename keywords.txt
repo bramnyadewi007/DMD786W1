@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For DMD786W1
+#######################################
+# Separate using TABS not SPACES!
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+# DMD786W1 Class
+start	KEYWORD2
+loop	KEYWORD2
+setBrightness	KEYWORD2
+setFont	KEYWORD2
+drawText	KEYWORD2
+textWidth	KEYWORD2
+disp	KEYWORD2
+Disp	KEYWORD2
+refresh KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
