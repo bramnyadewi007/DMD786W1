@@ -40,8 +40,8 @@ Let's do it
 * Compile atau Upload 
 * Jika berhasil, LIbrary siap digunakan untuk Sketch2 yang lain.
 
-###Wiring
-### Pin on DMD LED P10 Panel
+
+### Pin on DMD LED P10 Panel /Wiring
 
 | DMD P10 | GPIO | NODEMCU/WEMOS | 
 | ------- | ---- | ------- |
@@ -61,8 +61,8 @@ Let's do it
   Files > Preferences > Settings > Additional Boards Manager URLs : https://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 ### Terimakasih Kepada
-- HJS589 (DMD porting for ESP8266)
-- DMDESP (DMD porting for ESP8266)
+- HJS589 (DMD3 porting for ESP8266)
+- DMDESP (DMD3 porting for ESP8266)
 - DMD3
 - rweather (https://github.com/rweather/arduino-projects/blob/master/libraries/DMD)
 
