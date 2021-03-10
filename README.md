@@ -1,7 +1,7 @@
 # DMD786W1
 
-Controlling P10 Single Color HUB12 LED display with ESP8266 Plus WiFI 
-=====================================================================
+Controlling P10 Single Color HUB12 LED display with ESP8266 Plus WiFI and SoftAP WebServer
+===========================================================================================
 
 Untuk Menjalankan Led Panel P10 Satu Warna HUB12 dengan ESP8266/NodeMCU/WEMOS
 
