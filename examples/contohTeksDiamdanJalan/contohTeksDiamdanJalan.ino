@@ -58,7 +58,7 @@ IPAddress dns(8, 8, 4, 4);  //DNS
 DMD786W1 Disp(DISPLAYS_WIDE, DISPLAYS_HIGH);	// Jumlah Panel P10 yang digunakan (KOLOM,BARIS)
 
 void ICACHE_RAM_ATTR refresh() {
-  timer0_write(ESP.getCycleCount() + 2600);  //buat diatas 4 panel mending pakai ini
+  timer0_write(ESP.getCycleCount() + 2800);  //buat diatas 4 panel mending pakai ini
   Disp.refresh();
   //timer0_write(ESP.getCycleCount() + 8000); //buat dibawah 4 panel pakai ini juga bisa
 }
@@ -67,7 +67,7 @@ const int led = 13;
 
 void handleRoot() {
   digitalWrite(led, 1);
-  server.send(200, "text/plain", "hello from esp8266! TEst DMD P10 WiFi");
+  server.send(200, "text/plain", "hello from esp8266! Test DMD P10 WiFi");
   digitalWrite(led, 0);
 }
 
