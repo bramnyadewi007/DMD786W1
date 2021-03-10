@@ -3,6 +3,13 @@
 Controlling P10 Single Color HUB12 LED display with ESP8266 Plus WiFI 
 =====================================================================
 
+# Untuk Menjalankan Led Pane P10 Satu Warna HUB12 dengan NodeMCU ESP8266
+
+## Contoh Project
+
+<a href="https://www.youtube.com/watch?v=EoQWZDG82gc" target="_blank"><img src="https://i9.ytimg.com/vi/EoQWZDG82gc/mq2.jpg?sqp=CNj9oYIG&rs=AOn4CLDbsmEb5KHM2E6aguZfKzOWszJAmA"
+alt="P10 ESP8266" width="240" height="180" border="10" /></a>
+
 Overview
 --------
 * Library untuk kendali LED Panel P10 HUB12 Single Color menggunakan ESP8266.
