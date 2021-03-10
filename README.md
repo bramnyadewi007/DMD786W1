@@ -40,8 +40,36 @@ Let's do it
 * Compile atau Upload 
 * Jika berhasil, LIbrary siap digunakan untuk Sketch2 yang lain.
 
+###Wiring
+### Pin on DMD LED P10 Panel
+
+| DMD P10 | GPIO | NODEMCU/WEMOS | 
+| ------- | ---- | ------- |
+| A       | GPIO16 | D0    |                                                 
+| B       | GPIO12 | D6    |                                                  
+| CLK     | GPIO14 | D5    |                           
+| SCK     | GPIO0  | D3    |                           
+| R       | GPIO13 | D7    |
+| NOE     | GPIO15 | D8    |
+| GND     | GND    | GND   |
 
 
+## Software
+- Arduino IDE
+  Download & Install : https://www.arduino.cc/en/software
+- ESP8266 Board
+  Files > Preferences > Settings > Additional Boards Manager URLs : https://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+### Terimakasih Kepada
+- HJS589 (DMD porting for ESP8266)
+- DMDESP (DMD porting for ESP8266)
+- DMD3
+- rweather (https://github.com/rweather/arduino-projects/blob/master/libraries/DMD)
+
+### Catatan : 
+- Perlu Power Eksternal 5V ke LED P10.
+
+> email : bramnyadewi@gmail.com
 
 
 
