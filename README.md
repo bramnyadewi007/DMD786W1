@@ -7,8 +7,7 @@ Untuk Menjalankan Led Panel P10 Satu Warna HUB12 dengan ESP8266/NodeMCU/WEMOS
 
 ## Contoh Project
 
-<a href="https://www.youtube.com/watch?v=EoQWZDG82gc" target="_blank"><img src="https://i9.ytimg.com/vi/EoQWZDG82gc/mq2.jpg?sqp=CNj9oYIG&rs=AOn4CLDbsmEb5KHM2E6aguZfKzOWszJAmA"
-alt="P10 ESP8266" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=EoQWZDG82gc" target="_blank"><img src="https://1.bp.blogspot.com/-CddB0YjszjI/YEmGRLv1aNI/AAAAAAAAAx8/CxX-KS8_oqA6nNlorCflXwKXYPv4OAYRwCLcBGAsYHQ/s320/dmd786w1mq2.jpg" alt="P10 ESP8266" width="240" height="180" border="10" /></a>
 
 Overview
 --------
