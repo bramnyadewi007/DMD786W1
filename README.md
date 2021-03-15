@@ -26,7 +26,7 @@ LIMITATIONS
 * Scroll/marquee speed  yg disarankan 50ms.
 * Hanya untuk keluarga board MCU ESP8266.
 * CPU Frequency yang dipakai adalah 80Mhz
-* Versi FREE**
+* VERSI FREE**
 
 
 
