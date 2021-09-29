@@ -25,7 +25,7 @@ LIMITATIONS
 * Display_Height max=1. 
 * Scroll/marquee speed  yg disarankan 50ms.
 * Hanya untuk keluarga board MCU ESP8266.
-* CPU Frequency yang dipakai adalah 80Mhz
+* CPU Frequency yang dipakai adalah 80Mhz atau bisa 160Mhz
 * VERSI FREE**
 
 
