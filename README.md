@@ -32,8 +32,8 @@ LIMITATIONS
 
 Let's do it
 ------------
-* Gunakan Arduino IDE versi terbaru (library ini tested pada Arduino IDE versi 1.8.13).
-* Gunakan library board packages ESP8266 versi terbaru  (library ini tested pada library board packages ESP8266 versi 2.7.4).
+* Gunakan Arduino IDE versi 1.8.13 (library ini tested pada Arduino IDE versi 1.8.13).
+* Gunakan library board packages ESP8266 versi 2.7.4  (library ini tested pada library board packages ESP8266 versi 2.7.4).
 * Download lalu ekstrak File Library 
 * Copy paste library pad folder libraries Arduino IDE
 * Masuk ke dalam folder extras pada library, copy file  platform.txt ( file ini dibutuhkan untuk dapat menggunakan library )
