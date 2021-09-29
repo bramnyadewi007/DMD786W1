@@ -42,7 +42,7 @@ Let's do it
 * Paste File platform.txt,  Timpa file platform.txt yg sudah ada, atau bisa di backup terlebih dahulu.
 * Buka program Arduino IDE, buka file example dari DMD786W1-master  yaitu file contohTeksDiamdanJalan.ino.
 * Pilih Board ke ESP8266, bisa Generic ESp8266, NodeMCU, atau LOLIN(WEMOS)
-* Pilih CPU Frequency di 80Mhz
+* Pilih CPU Frequency di 80Mhz atau 160Mhz juga boleh.
 * Compile atau Upload 
 * Jika berhasil, LIbrary siap digunakan untuk Sketch2 yang lain.
 
